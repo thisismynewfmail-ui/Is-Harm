@@ -1,0 +1,1209 @@
+{
+  "report_metadata": {
+    "title": "Rape Gang Inquiry - Complete Extracted Data Report",
+    "chair": "Rupert Lowe MP",
+    "inquiry_team_lead": "Sammy Woodhouse",
+    "inquiry_team": ["Nat Enderby-Shenton", "Marlon West", "Debra Sudbury", "Julie Ballan"],
+    "inquiry_panel": ["Esther McVey MP", "Nick Timothy", "Carla Lockhart MP"],
+    "expert_contributor": "Dr. Mark Durie",
+    "editorial_team": ["Charlie Downes", "Joshua Ferme", "Harrison Pitt", "Graham Smith"],
+    "estimated_victim_count": "250,000+ (minimum)",
+    "affected_local_authority_districts": 149,
+    "affected_counties": 11,
+    "time_period_covered": "1955-2026"
+  },
+  "section_1_victims_survivors": {
+    "inquiry_hearing_victims": [
+      {
+        "id": "V001",
+        "pseudonym": "Chloe",
+        "gender": "Female",
+        "age_at_first_abuse": 10,
+        "abuse_period": "Early 2000s onward",
+        "location_associated": ["Scotland (final relocation)", "Midlands town (unnamed)"],
+        "perpetrator_demographics": ["Pakistani Muslim men", "South Asian Muslim men", "Indian man (25)", "Stepfather", "Uncle", "Pakistani Muslim illegal migrant (husband)"],
+        "perpetrator_notes": ["Groups of Muslim men aged 20-50+", "Many taxi drivers", "Related to one another", "Boys under 18 pressured into raping her"],
+        "institutions_failed_by": ["Police", "Social services", "NHS", "Government", "School"],
+        "abuse_types": ["Grooming", "Rape", "Gang rape", "Trafficking", "Forced conversion to Islam", "Forced marriage", "Drug abuse (heroin)", "Pregnancy from rape", "Child born with health defects"],
+        "injuries_conditions": ["Chlamydia (throat and vagina)", "Gonorrhea", "Genital warts", "Pelvic inflammatory disease", "Anorexia (5 stone at 18)", "Opiate addiction", "Gynaecological damage", "Suicide attempt"],
+        "cross_references": ["P001-taxi-drivers-network", "P002-Mohammed-gang", "P039-Pakistani-illegal-migrant-husband", "I003-Police-forces", "I004-Social-services", "I005-NHS"]
+      },
+      {
+        "id": "V002",
+        "pseudonym": "Fiona",
+        "gender": "Female",
+        "age_at_first_abuse": 13,
+        "abuse_period": "2008-2012, continued to 18",
+        "location_associated": ["Birmingham (Eid celebration)", "Multiple UK cities", "Kashmir (attempted trafficking)"],
+        "perpetrator_demographics": ["Pakistani Muslim men (48-98 of 50-100)", "Only 2 not Pakistani"],
+        "perpetrator_notes": ["Men aged 24-45", "10-20 men at 'party house'", "Organised grooming networks", "'Rambo' - illicit entry, castrated in Pakistan"],
+        "institutions_failed_by": ["Children's home staff", "Police", "Social services"],
+        "abuse_types": ["Grooming", "Rape", "Gang rape", "Trafficking", "Drug trafficking forced", "Pregnancy at 15", "Child removed/adopted"],
+        "injuries_conditions": ["PTSD", "Substance dependency", "Psychosis at 17", "Self-mutilation", "Long-term physical health damage"],
+        "cross_references": ["P004-Rambo", "P005-party-house-owner", "I001-Childrens-homes", "I003-Police-forces"]
+      },
+      {
+        "id": "V003",
+        "pseudonym": "Michelle",
+        "gender": "Female",
+        "age_at_first_abuse": 13,
+        "abuse_period": "Ongoing for 3 years (600-700 men)",
+        "perpetrator_demographics": ["98% Pakistani Muslim", "Iraqi Muslim", "Kurdish"],
+        "perpetrator_notes": ["Three adult Pakistani brothers (initial groomers)", "Three men locked her in house for gang rape", "Extensive central network with local subgroups", "Men waiting in cars"],
+        "institutions_failed_by": ["Police", "Social services", "Care staff"],
+        "abuse_types": ["Grooming", "Rape", "Gang rape", "Pregnancy x4", "Miscarriages", "Coerced abortion", "Knife threats", "Burned with cigarettes"],
+        "injuries_conditions": ["Severe PTSD", "Lifelong trauma"],
+        "cross_references": ["P006-three-pakistani-brothers-michelle", "P007-gang-three-men-house", "I003-Police-forces", "I004-Social-services"]
+      },
+      {
+        "id": "V004",
+        "pseudonym": "Whitney",
+        "gender": "Female",
+        "age_at_first_abuse": 15,
+        "location_associated": ["Birmingham"],
+        "perpetrator_demographics": ["Adult Pakistani brothers (two)"],
+        "perpetrator_notes": ["One acted as boyfriend figure", "Beating with hot iron to face"],
+        "institutions_failed_by": ["Social services", "Police"],
+        "abuse_types": ["Grooming", "Sexual abuse", "Physical violence (hot iron)"],
+        "cross_references": ["P008-two-pakistani-brothers-whitney", "I004-Social-services", "I003-Police-forces"]
+      },
+      {
+        "id": "V005",
+        "pseudonym": "Whitney's Daughter",
+        "age_at_first_abuse": 11,
+        "perpetrator_demographics": ["Adult men of various ethnicities", "Older boys at school"],
+        "abuse_types": ["Self-harm", "Coerced sexual image", "Circulated image", "Missing episodes", "Sexual exploitation"],
+        "institutions_failed_by": ["Social services", "Police", "School"],
+        "cross_references": ["V004-Whitney", "I004-Social-services", "I003-Police-forces"]
+      },
+      {
+        "id": "V006",
+        "pseudonym": "Sally's Daughter",
+        "age_at_first_abuse": "Teen (unknown exact)",
+        "outcome": "Found guilty of 9 counts perverting justice, 8 years prison",
+        "perpetrator_demographics": ["Asian men (described by mother)"],
+        "perpetrator_notes": ["Men's names appearing on phone", "Harassment at nightclub", "Man locked her in room above Indian restaurant", "Man arrested for later sexual assault of sleeping woman"],
+        "institutions_failed_by": ["Police", "Hospital", "Social services"],
+        "abuse_types": ["Sexual assault", "Rape (reported)", "Trafficking (NRM referral)", "Threats", "Intimidation", "39 missing episodes"],
+        "injuries_conditions": ["Swollen/red genitalia", "Cuts and bruises", "Black eye", "Suicide attempt (overdose)", "Head and ear injuries", "Severed finger"],
+        "cross_references": ["I003-Police-forces", "I005-NHS", "I004-Social-services", "I012-NRM"]
+      },
+      {
+        "id": "V007",
+        "pseudonym": "Scarlett (Marlon's Daughter)",
+        "age_at_first_abuse": 14,
+        "perpetrator_demographics": ["Adult male (drug dealer)", "Older woman", "Male Muslim staff at care unit", "Gang members"],
+        "perpetrator_notes": ["Adult drug dealer bailed then threatened life", "Older woman groomed under guise of friendship", "Unit run entirely by male Muslim staff where groomed again"],
+        "institutions_failed_by": ["Social services", "Police", "School", "Children's homes", "Edge of Care staff", "Secure care staff"],
+        "abuse_types": ["Grooming", "Rape", "Drug supply forced", "Prostitution forced", "Firearm digging forced", "Pregnancy from rape", "Trafficking"],
+        "injuries_conditions": ["PTSD", "Criminalised (charged with Class A drug supply despite being NRM victim)"],
+        "cross_references": ["P009-adult-drug-dealer", "P010-older-woman-groomer", "V008-Marlon-father", "I001-Childrens-homes", "I003-Police-forces", "I004-Social-services", "I012-NRM"]
+      },
+      {
+        "id": "V008",
+        "pseudonym": "Marlon (Father of Scarlett)",
+        "role": "Protective parent/whistleblower",
+        "abuse_types": ["Physical assault by daughter (grooming-induced)", "Parental authority undermined", "Attacked by masked individuals at home"],
+        "institutions_failed_by": ["Social services", "Police", "School"],
+        "published_book": "In Plain Sight (2026)",
+        "cross_references": ["V007-Scarlett", "I004-Social-services", "I003-Police-forces"]
+      },
+      {
+        "id": "V009",
+        "pseudonym": "Wallace",
+        "gender": "Male",
+        "age_at_first_abuse": "4-5 years old",
+        "location_associated": ["Scotland"],
+        "perpetrator_demographics": ["Mother's partner", "Partner's brother", "Biker group members"],
+        "perpetrator_notes": ["Connected to biker group", "Core group of men involved", "Police raided property but no safeguarding followed"],
+        "institutions_failed_by": ["Police", "General Medical Council"],
+        "abuse_types": ["Rape", "Restrained", "Drugged", "Child sexual abuse"],
+        "injuries_conditions": ["Long-term psychological harm", "Trust issues with authorities"],
+        "cross_references": ["P011-mothers-partner", "P012-partners-brother", "P013-biker-group", "I003-Police-forces", "I013-GMC"]
+      },
+      {
+        "id": "V010",
+        "pseudonym": "Sebastian",
+        "gender": "Trans man (born female)",
+        "age_at_first_abuse": 6,
+        "location_associated": ["Scotland", "Boarding school"],
+        "perpetrator_demographics": ["Family members", "Cafe owner", "Estate agents", "Solicitors", "Care support workers", "Police officers", "Boarding school staff", "Medical professionals (ignored injuries)"],
+        "perpetrator_notes": ["All White British", "Prostituted to seemingly respectable professionals"],
+        "abuse_types": ["Rape", "Assault", "Grooming", "Child prostitution", "Trafficking"],
+        "injuries_conditions": ["Gender transition as trauma response", "Long-term psychological harm"],
+        "cross_references": ["P014-family-member-abusers-sebastian", "P015-cafe-owner", "I003-Police-forces", "I005-NHS"]
+      },
+      {
+        "id": "V011",
+        "pseudonym": "Anna",
+        "gender": "Female",
+        "age_at_first_abuse": 13,
+        "perpetrator_demographics": ["Almost 18-year-old male (first perpetrator)", "Three Muslim brothers"],
+        "perpetrator_notes": ["First perpetrator recorded assault and shared it", "One brother convicted of sexual assault, shouted 'Allahu Akbar' in court", "Sister of brothers threatened and breached anonymity"],
+        "institutions_failed_by": ["Police", "Court system"],
+        "abuse_types": ["Coerced oral sex", "Covert recording", "Distribution of CSA material", "Groping", "Assault", "Intimidation"],
+        "injuries_conditions": ["Concussion", "Ostracism", "Interrupted education", "Mental health damage"],
+        "cross_references": ["P016-three-muslim-brothers-anna", "P017-first-perpetrator-anna", "I003-Police-forces"]
+      },
+      {
+        "id": "V012",
+        "pseudonym": "Taylor",
+        "gender": "Female",
+        "age_at_first_abuse": 12 (grooming), 15 (rape),
+        "abuse_types": ["Grooming", "Rape", "Gang rape", "Trafficking", "Kidnapping", "Weapons threats"],
+        "perpetrator_demographics": ["Adult Muslim men", "35-year-old Bangladeshi man", "Approximately 100 men total"],
+        "perpetrator_notes": ["Drove black cabs and own cars", "Friends were also being abused", "Some women acted as directors"],
+        "institutions_failed_by": ["Police", "Teachers", "GP", "School"],
+        "injuries_conditions": ["Lifelong psychological harm", "Witnessed shootings", "Knife at throat", "Gun to head"],
+        "cross_references": ["P018-Bangladeshi-man-35", "P019-taxi-driver-network-taylor", "P020-women-directors-taylor", "I003-Police-forces", "I005-NHS"]
+      },
+      {
+        "id": "V013",
+        "pseudonym": "Marie",
+        "gender": "Female",
+        "age_at_first_abuse": "Infancy (signs from ~1 year old), 7 (active grooming)",
+        "perpetrator_demographics": ["Mother (complicit)", "Mother's partner", "Woman who performed backstreet abortions", "Her husband (raped Marie)", "55-year-old police sergeant", "Grooming network/organised gang members"],
+        "perpetrator_notes": ["Mother's partner groomed from 7", "Mother was complicit", "Mother forced bottle inside her", "Mother attached clothes pegs to clitoris", "Mother took her for backstreet abortion with knitting needle", "Police sergeant claimed to help but raped her"],
+        "institutions_failed_by": ["NHS/Medical professionals", "Police", "College", "Social services"],
+        "abuse_types": ["Grooming", "Rape (incl. anal)", "Trafficking", "Extreme sexual violence", "Penetration with objects", "Urinated on", "Strangled", "Bitten", "Cut", "Forced abortion (backstreet)", "Pregnancy from abuse"],
+        "injuries_conditions": ["Lasting physical injuries", "Suicide attempts"],
+        "cross_references": ["P021-marie-mother", "P022-marie-mothers-partner", "P023-backstreet-abortion-woman", "P024-her-husband-rapist", "P025-police-sergeant-55", "I003-Police-forces", "I005-NHS"]
+      },
+      {
+        "id": "V014",
+        "pseudonym": "Jane",
+        "gender": "Female",
+        "age_at_first_abuse": 13,
+        "location_associated": ["Hounslow (London)", "Semi-independent living facility"],
+        "perpetrator_demographics": ["Mother's drug dealer (50-year-old)", "6-7 Somali men", "Female peer (directed girls)"],
+        "perpetrator_notes": ["Drug dealer groomed via Facebook", "Female peer sold her to Somali men", "Staff blackmailed her"],
+        "institutions_failed_by": ["School", "Police", "Social services", "Children's home staff", "Semi-independent living staff", "Psychiatric hospital"],
+        "abuse_types": ["Rape", "Sexual exploitation", "Trafficking", "Sold for sex", "Forced to shave", "Blackmail", "Eating disorder induced"],
+        "injuries_conditions": ["Severe eating disorder", "Endometriosis", "Loss of half uterus", "Sectioned under Mental Health Act", "Self-harm", "Records lost/destroyed"],
+        "cross_references": ["P026-drug-dealer-50", "P027-somali-men-6-7", "P028-female-peer-trafficker", "I001-Childrens-homes", "I003-Police-forces", "I004-Social-services", "I005-NHS"]
+      },
+      {
+        "id": "V015",
+        "pseudonym": "Leanne",
+        "gender": "Female",
+        "age_at_first_abuse": "Infancy (uncle)", "14 (gang grooming)",
+        "location_associated": ["Sheffield (Pitsmoor)", "Other cities"],
+        "perpetrator_demographics": ["Uncle (familial)", "Adult Kurdish men", "Adult Iraqi men", "Adult Muslim men of various backgrounds"],
+        "perpetrator_notes": ["Primarily Kurdish and Iraqi backgrounds", "Operated in groups", "Records falsified to suggest she was 16"],
+        "institutions_failed_by": ["Police", "Social services", "Council housing department"],
+        "abuse_types": ["Rape", "Gang rape", "Trafficking", "Held captive and beaten for days", "Pregnancy at 15 from Iraqi man", "Miscarriage", "Witnessed stabbings, shootings, machete attacks", "Forced to handle firearms"],
+        "injuries_conditions": ["Chronic fibromyalgia", "Psychological trauma"],
+        "cross_references": ["P029-uncle-leanne", "P030-kurdish-men-group", "P031-iraqi-man", "I003-Police-forces", "I004-Social-services"]
+      },
+      {
+        "id": "V016",
+        "pseudonym": "Lilly",
+        "gender": "Female",
+        "age_at_first_abuse": 5 (attempted), 6 (actual abuse),
+        "location_associated": ["Council estate", "Children's homes"],
+        "perpetrator_demographics": ["Older boy (later raped 3-year-old)", "His brother", "Man who groomed Lilly from 6", "Social worker (sister's abuser)", "Children's home staff", "Foreign taxi drivers"],
+        "perpetrator_notes": ["Social worker sexually abused sister at 12, gained guardianship, married her", "Covered up by management", "Staff handed children to taxi drivers"],
+        "institutions_failed_by": ["Police", "Council", "Children's home management", "Social services"],
+        "abuse_types": ["Rape", "Gang rape (at 14)", "Abduction", "Sexual abuse by staff", "Violent assaults by staff"],
+        "injuries_conditions": ["Head injury with lasting neurological damage", "Brain aneurysm", "Records concealed for nearly 40 years"],
+        "cross_references": ["P032-social-worker-sister-abuser", "P033-older-boy-perpetrator", "P034-his-brother", "P035-man-groomed-lilly-from-6", "P036-foreign-taxi-drivers-lilly", "I001-Childrens-homes", "I003-Police-forces", "I014-Operation-Marmion"]
+      },
+      {
+        "id": "V017",
+        "pseudonym": "Grace",
+        "gender": "Female",
+        "age_at_first_abuse": 4 (babysitter) / secondary school (grooming),
+        "perpetrator_demographics": ["Babysitter", "Pakistani men (majority)", "White men (intermediaries)", "Partner (paedophile in grooming gangs)"],
+        "perpetrator_notes": ["White men acted as intermediaries", "Partner sexually abused her children"],
+        "institutions_failed_by": ["Police"],
+        "abuse_types": ["Sexual abuse (babysitter)", "Grooming", "Rape", "Domestic violence", "Coercive control", "Children abused"],
+        "injuries_conditions": ["Severe mental illness", "Displacement", "Loss of employment", "Ongoing fear", "Flashbacks", "Panic attacks", "Substance misuse relapse"],
+        "cross_references": ["P037-paedophile-partner-grace", "I003-Police-forces"]
+      },
+      {
+        "id": "V018",
+        "pseudonym": "Victoria's Daughter",
+        "age_at_first_abuse": "Teen (college age, ~16-17)",
+        "location_associated": ["Local college"],
+        "perpetrator_demographics": ["Algerian Muslim student", "His brother"],
+        "perpetrator_notes": ["Strong Islamic beliefs", "Coercive control via Face ID, social media isolation", "Family racially abused her"],
+        "institutions_failed_by": ["Police", "Social services", "College", "Prevent programme (delayed/catastrophic failure)"],
+        "abuse_types": ["Coercive control", "Forced conversion to Islam", "Rape", "Strangulation", "Death threats", "Financial exploitation", "Isolation"],
+        "injuries_conditions": ["Suicide attempts (cutting)", "Mental health deterioration", "Dietary changes forced"],
+        "cross_references": ["P038-Algerian-boyfriend", "I003-Police-forces", "I004-Social-services", "I011-Prevent"]
+      },
+      {
+        "id": "V019",
+        "pseudonym": "Eleanor",
+        "gender": "Female",
+        "age_at_first_abuse": 13,
+        "location_associated": ["Jersey (trafficked to)", "Saudi Arabia (trafficked to)", "'Ethnic minority' majority area"],
+        "perpetrator_demographics": ["Older white men", "Muslim men (restaurant-linked)", "Older man (boyfriend in drug trade)", "Man who married/took her to Saudi Arabia", "Another man who raped her"],
+        "perpetrator_notes": ["Converted to Islam as survival strategy", "Islamic marriage for stability", "Man in Saudi Arabia entirely controlled her"],
+        "institutions_failed_by": ["Mother (abandoned)", "Social services", "Education system", "Police", "Children's homes"],
+        "abuse_types": ["Grooming", "Rape", "Trafficking", "Forced conversion", "Forced Islamic marriage", "Domestic abuse", "Coercive control", "False imprisonment (Saudi Arabia)", "Criminalised (joint enterprise, 2 years prison)", "Pregnancy from rape"],
+        "cross_references": ["I003-Police-forces", "I004-Social-services", "I001-Childrens-homes"]
+      },
+      {
+        "id": "V020",
+        "pseudonym": "Rachel's Daughter",
+        "age_at_first_abuse": 12,
+        "age_at_death": 12,
+        "cause_of_death": "Overdose (colchicine) - suicide",
+        "perpetrator_demographics": ["White British boy (from school)", "His adult brother", "Girls linked to perpetrator"],
+        "perpetrator_notes": ["Alleged perpetrator remained in school", "Brother attempted to force entry to family home"],
+        "institutions_failed_by": ["Police", "School", "Crown Prosecution Service"],
+        "abuse_types": ["Oral rape", "Bullying", "Physical assaults (filmed)", "Online threats (Snapchat)", "Intimidation"],
+        "cross_references": ["P040-white-british-boy-rapist", "P041-his-adult-brother", "I003-Police-forces", "I015-CPS"]
+      },
+      {
+        "id": "V021",
+        "pseudonym": "Jen",
+        "gender": "Female",
+        "age_at_first_abuse": 13 (online), 15 (offline White British men), 17 (Iraqi Kurdish gang),
+        "location_associated": ["Midlands towns and cities"],
+        "perpetrator_demographics": ["White British men (grooming only, not rape)", "Iraqi Kurdish Muslim men (gang)", "Imam (forced marriage)", "Iraqi illegal migrant (husband)"],
+        "perpetrator_notes": ["All gang members were illegal migrants", "Forced to fill in asylum benefit applications for them", "Father took daughter to Iraq despite claiming asylum from there"],
+        "institutions_failed_by": ["Police", "Social services"],
+        "abuse_types": ["Online grooming", "Rape (including anal in park)", "Gang rape", "Trafficking", "Forced conversion to Islam", "Forced Islamic marriage (imam)", "Religious coercion", "Pregnancy from rape", "Child removed to Iraq"],
+        "injuries_conditions": ["Complex PTSD", "Anxiety", "Depression", "Dissociation", "Agoraphobia", "Daughter taken to Iraq regularly"],
+        "cross_references": ["P042-iraqi-kurdish-gang", "P043-imam-forced-marriage-jen", "P044-iraqi-illegal-migrant-husband", "I003-Police-forces"]
+      },
+      {
+        "id": "V022",
+        "pseudonym": "Kate",
+        "gender": "Female",
+        "age_at_first_abuse": 12,
+        "location_associated": ["London (Notting Hill Carnival)", "Multiple UK cities (national trafficking)", "Canal boat", "University town", "Caravan (remote)"],
+        "perpetrator_demographics": ["Three men (initial: White British/GRT backgrounds)", "Later: Pakistani, Bangladeshi, Bengali Muslims", "Police officer (alleged)"],
+        "perpetrator_notes": ["Two chief abusers controlled her", "'They had people on the inside' (police)", "Man she believed to be a doctor raped her in hotel", "Alleged rape by police officer on canal boat"],
+        "institutions_failed_by": ["Police", "Social services", "School", "CAMHS", "University", "Hotel staff", "Parents (eventually)"],
+        "abuse_types": ["Rape", "Gang rape", "Trafficking", "Filmed blackmail", "Webcam abuse (revenue generation)", "'Red rooms' torture", "Animal rape (dog)", "Witnessed murder of another girl (Meg)", "Witnessed murder of another girl (younger)", "Forced 'street-based sex work'", "Restrained, beaten, tortured for 9 days in caravan"],
+        "injuries_conditions": ["Dissociative identity disorder", "PTSD", "Multiple suicide attempts", "NRM Conclusive Grounds decision"],
+        "cross_references": ["P045-two-chief-abusers-kate", "P046-police-officer-rapist-kate", "P047-doctor-rapist-kate", "V023-Meg", "V024-another-girl-witnessed", "I003-Police-forces", "I004-Social-services", "I012-NRM"]
+      },
+      {
+        "id": "V023",
+        "pseudonym": "Meg",
+        "status": "Deceased (allegedly murdered by gang)",
+        "perpetrator_demographics": ["Same network targeting Kate"],
+        "cross_references": ["V022-Kate"]
+      },
+      {
+        "id": "V024",
+        "pseudonym": "Younger girl (Kate's case - 'broken in')",
+        "age_at_encounter": "Younger than 14 (Kate's estimate)",
+        "status": "Allegedly murdered in front of Kate",
+        "perpetrator_demographics": ["Same network targeting Kate"],
+        "cross_references": ["V022-Kate"]
+      }
+    ],
+    "appendix_I_non_hearing_victims": [
+      {
+        "id": "V025",
+        "pseudonym": "Felicity",
+        "age_at_first_abuse": 8,
+        "perpetrator_demographics": ["First abuser (initial period)", "Asian men (trafficked to)", "Man named 'Raz'", "Man who wanted to be like Fred West", "Man believed to be police officer"],
+        "perpetrator_notes": ["First abuser attended Christian church", "Raz sat watching while abuse took place", "Purchased for night as reward", "Girl shot in front of her by man believed to be police officer"],
+        "abuse_types": ["Rape", "Torture", "Trafficking", "Forced conversion to Islam", "Forced to witness murder of girl (iron burn, strangulation)", "Witnessed girl shot", "Punishment rooms with dog crates", "Miscarriages", "Attempted suicide with gun"],
+        "cross_references": ["P048-Raz", "P049-man-Fred-West-aspiration", "P050-man-believed-police-officer"]
+      },
+      {
+        "id": "V026",
+        "pseudonym": "Claire",
+        "abuse_types": ["Grooming", "Drug dealing forced", "Sexual exploitation", "Party houses"],
+        "institutions_failed_by": ["Chief Inspector of Police (aware)"],
+        "cross_references": ["I003-Police-forces"]
+      },
+      {
+        "id": "V027",
+        "pseudonym": "Tinkerbell",
+        "age_at_placement": "14.5",
+        "perpetrator_demographics": ["Scottish night social worker (initial abuse in care)", "Pakistani men (street grooming)", "Polish man and his son"],
+        "abuse_types": ["Sexual abuse in care home", "Grooming", "Prostitution (shelter/food for sex)"],
+        "cross_references": ["P051-night-social-worker-abuser", "P052-polish-man-son", "I001-Childrens-homes"]
+      },
+      {
+        "id": "V028",
+        "pseudonym": "Lia",
+        "perpetrator_demographics": ["Abuser claiming to be son of Baghdad chief of police", "Had two passports with two different names"],
+        "abuse_types": ["Stalking", "Abduction", "Rape", "False imprisonment", "Death threats", "Violent attacks (broken nose etc.)"],
+        "cross_references": ["P053-baghdad-chief-son", "I003-Police-forces"]
+      },
+      {
+        "id": "V029",
+        "pseudonym": "Jo'Jo's Daughter",
+        "age_at_first_abuse": "13-14",
+        "age_at_death": 33,
+        "cause_of_death": "Died alone in flat (grooming/rape/institutional failure linked)",
+        "perpetrator_demographics": ["Four Asian males (Pakistani men)", "25-year-old boyfriend figure"],
+        "perpetrator_notes": ["Hotel manager contacted police during Eid", "Case dropped on trial day - 'very good solicitor'"],
+        "institutions_failed_by": ["Police", "Justice system"],
+        "abuse_types": ["Grooming", "Rape", "Alcohol supplied", "Curry powder thrown over her"],
+        "cross_references": ["P054-four-pakistani-men-jojo", "I003-Police-forces"]
+      },
+      {
+        "id": "V030",
+        "pseudonym": "Phoebe",
+        "institutions_failed_by": ["Police (vital evidence deleted from phone)"],
+        "cross_references": ["V031-Ross-father", "I003-Police-forces"]
+      },
+      {
+        "id": "V031",
+        "pseudonym": "Ross (Phoebe's Father)",
+        "role": "Parent",
+        "cross_references": ["V030-Phoebe"]
+      },
+      {
+        "id": "V032",
+        "pseudonym": "Celeste",
+        "perpetrator_demographics": ["Slovakian men (first approach)", "Tall muscly man with glasses (rapist)", "Same 4 men continuously over 2 days"],
+        "institutions_failed_by": ["South Yorkshire Police", "Social services (Rotherham area)"],
+        "abuse_types": ["Rape", "Gang rape", "Forced oral sex", "Forced showering/watched"],
+        "injuries_conditions": ["Sleeping medication prescribed", "Bipolar medication prescribed", "Lack of trust in professionals"],
+        "cross_references": ["P055-slovakian-men", "P056-four-men-celeste", "I003-Police-forces", "I004-Social-services"]
+      }
+    ],
+    "other_survivors_mentioned": [
+      {
+        "id": "V033",
+        "pseudonym": "Sarah",
+        "age_at_kidnapping": 15,
+        "abuse_duration": "12 years",
+        "perpetrator_demographics": ["Abuser who produced mosque marriage certificate", "Second husband via imam ceremony", "Gang members"],
+        "abuse_types": ["Kidnapping", "Drugged (Valium)", "Rape", "Forced Islamic marriage", "Sharia divorce (3x 'I divorce you')", "8 forced abortions (one at 5 months)", "Forced hijab, Urdu, Punjabi, Quran study", "Domestic slavery"],
+        "cross_references": ["P057-first-abuser-sarah", "P058-second-husband-sarah-imam", "I003-Police-forces"]
+      },
+      {
+        "id": "V034",
+        "pseudonym": "Anna (Bradford case - not main Anna)",
+        "age_at_first_abuse": 13,
+        "location_associated": ["Bradford children's home (2002)"],
+        "perpetrator_demographics": ["Dozens of men", "Social worker (attended marriage)"],
+        "perpetrator_notes": ["Social worker attended forced marriage at 15", "Husband's parents fostered her and received state allowance"],
+        "abuse_types": ["Rape", "Sexual abuse", "Forced sharia marriage", "Domestic slavery", "Pregnancy"],
+        "cross_references": ["P059-social-worker-attended-marriage", "I001-Childrens-homes", "I004-Social-services"]
+      },
+      {
+        "id": "V035",
+        "pseudonym": "Dr. Ella Hill",
+        "role": "Survivor and qualified doctor",
+        "location_associated": ["Rotherham"],
+        "perpetrator_demographics": ["Pakistani Muslim boyfriend (main)", "Groups of Muslim men"],
+        "perpetrator_notes": ["Boyfriend tracked her after escape, attempted murder 5 times", "Verbal abuse included 'white slag', 'white whore', 'white cunt'"],
+        "abuse_types": ["Grooming", "Trafficking", "Rape (100+ times)", "Torture", "Attempted murder x5", "Honour attack", "Religious/spiritual abuse", "Forced to kiss perpetrator's feet", "Forced to lick feet clean"],
+        "cross_references": ["P060-pakistani-boyfriend-hill", "I003-Police-forces"]
+      },
+      {
+        "id": "V036",
+        "pseudonym": "Hannan/Hannah (The Imam's Daughter)",
+        "age_at_first_abuse": "14-15",
+        "perpetrator_demographics": ["Father (imam)", "Pakistani Muslim social worker (betrayed her)"],
+        "perpetrator_notes": ["Father beat and raped her", "Social worker told father everything", "Imprisoned in cellar for days"],
+        "cross_references": ["P061-father-imam", "P062-social-worker-betrayed-hannan"]
+      },
+      {
+        "id": "V037",
+        "pseudonym": "Char (Felicity's friend)",
+        "status": "Allegedly killed by gang, possibly taken to Pakistan",
+        "cross_references": ["V025-Felicity"]
+      }
+    ]
+  },
+  "section_2_perpetrators_convicted_and_named": {
+    "convicted_named_perpetrators": [
+      {
+        "id": "P001",
+        "name": "Arshid Hussain",
+        "status": "Child abuser",
+        "notes": "Allegedly brokered 'no-prosecution deal' with PC Hassan Ali of South Yorkshire Police. Handed over missing underage girl at petrol station in exchange for not being arrested/prosecuted.",
+        "location_associated": ["Rotherham", "South Yorkshire"],
+        "cross_references": ["P065-PC-Hassan-Ali", "I003-Police-forces-South-Yorkshire"]
+      },
+      {
+        "id": "P002",
+        "name": "Mohammed Karrar",
+        "status": "Convicted",
+        "case": "R v. Karrar (2013), Central Criminal Court",
+        "sentencing_judge": "HH Judge Peter Rook QC",
+        "cross_references": ["P060-PC-Hassan-Ali"]
+      },
+      {
+        "id": "P003",
+        "name": "Akhtar Dogar",
+        "status": "Convicted",
+        "case": "R v. Karrar (2013), Central Criminal Court",
+        "sentencing_judge": "HH Judge Peter Rook QC",
+        "cross_references": ["P060-PC-Hassan-Ali"]
+      },
+      {
+        "id": "P004",
+        "name": "Anjum Dogar",
+        "status": "Convicted",
+        "case": "R v. Karrar (2013), Central Criminal Court",
+        "sentencing_judge": "HH Judge Peter Rook QC",
+        "cross_references": ["P060-PC-Hassan-Ali"]
+      },
+      {
+        "id": "P005",
+        "name": "Kamar Jamil",
+        "status": "Convicted",
+        "case": "R v. Karrar (2013), Central Criminal Court",
+        "sentencing_judge": "HH Judge Peter Rook QC",
+        "cross_references": ["P060-PC-Hassan-Ali"]
+      },
+      {
+        "id": "P006",
+        "name": "Bassam Karrar",
+        "status": "Convicted",
+        "case": "R v. Karrar (2013), Central Criminal Court",
+        "sentencing_judge": "HH Judge Peter Rook QC",
+        "cross_references": ["P060-PC-Hassan-Ali"]
+      },
+      {
+        "id": "P007",
+        "name": "Lord Nazir Ahmed",
+        "status": "Convicted (2022)",
+        "conviction": "Multiple child sex offences including rape of 13-year-old girl",
+        "sentence": "5.5 years imprisonment",
+        "former_roles": ["Labour councillor (Rotherham, since 1990)", "Labour peer (elevated by Tony Blair)"],
+        "notes": "Survivors described him as part of same networks enabling Rotherham's grooming gangs",
+        "location_associated": ["Rotherham"],
+        "cross_references": ["I016-Labour-Party", "I003-Police-forces-South-Yorkshire"]
+      },
+      {
+        "id": "P008",
+        "name": "Liron Velleman",
+        "status": "Pleaded guilty",
+        "conviction": "Sex offences against a child (approached 13-year-old asking if she was a virgin)",
+        "former_role": "Labour councillor",
+        "cross_references": ["I016-Labour-Party"]
+      },
+      {
+        "id": "P009",
+        "name": "Carol Clark",
+        "status": "Facing formal complaints",
+        "allegations": "Warning her paedophile son of impending arrest in grooming-related investigation while simultaneously voting on grooming gang matters",
+        "former_role": "Labour councillor",
+        "cross_references": ["I016-Labour-Party"]
+      },
+      {
+        "id": "P010",
+        "name": "Ivor Caplin",
+        "status": "Arrested (2025)",
+        "allegations": "Grooming a 15-year-old child",
+        "former_role": "Labour MP",
+        "cross_references": ["I016-Labour-Party"]
+      },
+      {
+        "id": "P011",
+        "status": "Unknown", 
+        "name": "Muhammad (Rotherham)",
+        "notes": "Branded his victim with letter 'M' as mark of ownership",
+        "location_associated": ["Rotherham"]
+      },
+      {
+        "id": "P012",
+        "status": "Not convicted",
+        "name": "'Rambo' (nickname)",
+        "notes": "Illicit entry UK in back of lorry. Previously castrated in Pakistan as punishment for child abuse. Fled to Philippines, attacked multiple women/children with large knife. Locked in room with two girls and subjected them to extreme sexual torture.",
+        "location_associated": ["Pakistan", "Philippines", "UK"]
+      },
+      {
+        "id": "P013",
+        "status": "Not convicted",
+        "name": "'Raz' (nickname - Felicity's case)",
+        "notes": "Sat watching while abuse took place. Purchased victim for night as reward for associates. Enjoyed watching other men rape victim before raping her himself.",
+        "cross_references": ["V025-Felicity"]
+      },
+      {
+        "id": "P014",
+        "status": "Not convicted",
+        "name": "Quran/Arabic Tutor (Fred's case)",
+        "notes": "Presented publicly as Quran and Arabic tutor linked to mosque and teaching centre at two universities. Extensive digital evidence submitted to Police Scotland. Appeared to leave Britain, resurfaced while investigation remained open. Cyberattacks on Fred's systems originated from Middle East.",
+        "cross_references": ["P015-PC-Hassan-Ali"]
+      },
+      {
+        "id": "P015",
+        "status": "Police officer",
+        "name": "PC Hassan Ali",
+        "force": "South Yorkshire Police",
+        "allegations": "Allegedly brokered 'no-prosecution deal' with child abuser Arshid Hussain",
+        "cross_references": ["P001-Arshid-Hussain", "I003-Police-forces-South-Yorkshire"]
+      },
+      {
+        "id": "P016",
+        "status": "Police officer",
+        "name": "PC (Merseyside - Rachel's daughter case)",
+        "force": "Merseyside Police",
+        "allegations": "Discouraged 12-year-old rape victim from pursuing justice"
+      },
+      {
+        "id": "P017",
+        "status": "Police officer",
+        "name": "Police officer (alleged canal boat rapist - Kate's case)",
+        "force": "Unknown",
+        "allegations": "Allegedly raped Kate on canal boat",
+        "cross_references": ["V022-Kate"]
+      },
+      {
+        "id": "P018",
+        "status": "Police officer (unnamed)",
+        "name": "55-year-old police sergeant (Marie's case)",
+        "allegations": "Groomed 17-year-old Marie, claimed he would catch her attacker, instead raped her on multiple occasions",
+        "cross_references": ["V013-Marie"]
+      },
+      {
+        "id": "P019",
+        "status": "Not convicted",
+        "name": "Chloe's stepfather",
+        "role": "Familial abuser",
+        "allegations": "Sexually abused Chloe from age 10, supplied alcohol/cigarettes to 'keep her quiet'",
+        "cross_references": ["V001-Chloe"]
+      },
+      {
+        "id": "P020",
+        "status": "Not convicted",
+        "name": "Chloe's uncle",
+        "role": "Familial abuser",
+        "allegations": "Sexually assaulted Chloe when she sought refuge"
+      },
+      {
+        "id": "P021",
+        "status": "Not convicted",
+        "name": "25-year-old Indian man (Chloe's case)",
+        "role": "Gang member",
+        "allegations": "Raped Chloe at 12 on back seats of car. Taken to court in 2022 but not found guilty."
+      },
+      {
+        "id": "P022",
+        "status": "Not convicted",
+        "name": "His friend (Indian man - Chloe's case)",
+        "role": "Gang member",
+        "allegations": "Also raped Chloe. Not found guilty in 2022 trial."
+      },
+      {
+        "id": "P023",
+        "status": "Not convicted",
+        "name": "Pakistani Muslim illegal migrant (Chloe's 'husband')",
+        "role": "Husband/controller",
+        "allegations": "Forced Chloe into Islam and marriage. Beat her 'black and blue' every day. Forced hijab, prohibited from looking out windows. Child born with health defects. Removed after assaulting child."
+      },
+      {
+        "id": "P024",
+        "status": "Not convicted",
+        "name": "Three adult Pakistani brothers (Michelle's case)",
+        "role": "Initial groomers",
+        "allegations": "Groomed Michelle from age 13 with alcohol, cigarettes, drugs. Raped while intoxicated."
+      },
+      {
+        "id": "P025",
+        "status": "Not convicted",
+        "name": "Gang members (three men - Michelle's case)",
+        "role": "Gang rapists",
+        "allegations": "Gang-raped and beat Michelle at 14, locked her in house. One forced her to retract statement at police station."
+      },
+      {
+        "id": "P026",
+        "status": "Not convicted",
+        "name": "Two adult Pakistani brothers (Whitney's case)",
+        "role": "Groomers/abusers",
+        "allegations": "Groomed Whitney at 15. Took her to flat in Birmingham. Beat her. Held hot iron to her face."
+      },
+      {
+        "id": "P027",
+        "status": "Not convicted",
+        "name": "35-year-old Bangladeshi man (Taylor's case)",
+        "role": "Restaurant worker/gang member",
+        "allegations": "Kissed Taylor at 15, later raped her. She believed he was her boyfriend."
+      },
+      {
+        "id": "P028",
+        "status": "Not convicted",
+        "name": "Marie's mother",
+        "role": "Familial perpetrator/complicit",
+        "allegations": "Cruel and abusive. Complicit in partner's abuse. Forced bottle inside Marie. Attached clothes pegs to clitoris. Groomed Marie for others. Forced backstreet abortions."
+      },
+      {
+        "id": "P029",
+        "status": "Not convicted",
+        "name": "Marie's mother's partner",
+        "role": "Familial abuser/trafficker",
+        "allegations": "Groomed Marie from age 7. Raped her. Trafficked her to other perpetrators through his work network. Impregnated her."
+      },
+      {
+        "id": "P030",
+        "status": "Not convicted",
+        "name": "Woman who performed backstreet abortions (Marie's case)",
+        "role": "Abortionist/network associate",
+        "allegations": "Used knitting needle to perform abortions on Marie (twice). Her husband also raped Marie."
+      },
+      {
+        "id": "P031",
+        "status": "Not convicted",
+        "name": "50-year-old drug dealer (Jane's case)",
+        "role": "Groomer/rapist",
+        "allegations": "Groomed Jane via Facebook from age 13. Raped her at her father's house armed with kosh. Sexually abused her 'every day apart from weekends' for months."
+      },
+      {
+        "id": "P032",
+        "status": "Not convicted",
+        "name": "6-7 Somali men (Jane's case)",
+        "role": "Gang sexual exploiters",
+        "allegations": "Jane was sold to them for sex by female peer. She was forced to shave. Abused repeatedly over months."
+      },
+      {
+        "id": "P033",
+        "status": "Not convicted",
+        "name": "Female peer (Jane's trafficker)",
+        "role": "Trafficker",
+        "allegations": "Trafficked Jane to Somali men. Received payment. Blackmailed Jane with threat of prison."
+      },
+      {
+        "id": "P034",
+        "status": "Not convicted",
+        "name": "Leanne's uncle",
+        "role": "Familial abuser"
+      },
+      {
+        "id": "P035",
+        "status": "Not convicted",
+        "name": "Adult Iraqi man (Leanne's case)",
+        "role": "Gang member",
+        "allegations": "Impregnated Leanne at 15. She miscarried."
+      },
+      {
+        "id": "P036",
+        "status": "Not convicted",
+        "name": "Older boy (Lilly's case - perpetrator)",
+        "role": "Perpetrator",
+        "allegations": "Attempted to take Lilly's hand at 5. Later raped a three-year-old."
+      },
+      {
+        "id": "P037",
+        "status": "Not convicted",
+        "name": "Social worker (Lilly's sister's abuser)",
+        "role": "Professional position of trust",
+        "allegations": "Sexually abused Lilly's sister at age 12. Gained legal guardianship. Eventually married her. Covered up by management. Paid by local authority."
+      },
+      {
+        "id": "P038",
+        "status": "Not convicted",
+        "name": "Man who groomed Lilly from age 6",
+        "role": "Groomer/rapist",
+        "allegations": "Repeatedly abducted and raped Lilly from age 6. Threatened to harm her sisters if she spoke."
+      },
+      {
+        "id": "P039",
+        "status": "Convicted",
+        "name": "White British boy (Rachel's daughter case)",
+        "role": "Perpetrator",
+        "allegations": "Orally raped Rachel's 12-year-old autistic daughter. Remained in school. Police investigation went nowhere."
+      },
+      {
+        "id": "P040",
+        "status": "Not convicted",
+        "name": "His adult brother (Rachel's daughter case)",
+        "role": "Intimidator",
+        "allegations": "Attended family home, attempted to force entry"
+      },
+      {
+        "id": "P041",
+        "status": "Not convicted",
+        "name": "Iraqi Kurdish Muslim gang (Jen's case)",
+        "role": "Organised gang",
+        "allegations": "All illegal migrants. Trafficked Jen across Midlands. Raped at 'parties'. Drug runs. Forced conversion. Provided by imam."
+      },
+      {
+        "id": "P042",
+        "status": "Unknown",
+        "name": "Imam (Jen's forced marriage)",
+        "role": "Religious authority figure",
+        "allegations": "Married Jen in Islamic ceremony without her consent in 'dark, dingy flat converted into mosque'"
+      },
+      {
+        "id": "P043",
+        "status": "Not convicted",
+        "name": "Iraqi illegal migrant (Jen's 'husband')",
+        "role": "Controller/trafficker",
+        "allegations": "Forced conversion, forced marriage. Took daughter to Iraq despite claiming asylum from there. Daughter exposed to firearms including AK-47s."
+      },
+      {
+        "id": "P044",
+        "status": "Not convicted",
+        "name": "Three men (initial Kate attackers - White British/GRT)",
+        "role": "Initial attackers/blackmailers",
+        "allegations": "Raped Kate at 12. Filmed assault. Blackmailed her. Told her she 'worked' for them. Two chief abusers controlled her for years."
+      },
+      {
+        "id": "P045",
+        "status": "Not convicted",
+        "name": "Pakistani/Bangladeshi/Bengali Muslim men (Kate's later traffickers)",
+        "role": "Trafficking network",
+        "allegations": "National trafficking. Red rooms. Animal rape. Forced witnessing of murders."
+      },
+      {
+        "id": "P046",
+        "status": "Not convicted",
+        "name": "Algerian Muslim student (Victoria's daughter's abuser)",
+        "role": "Coercive controller",
+        "allegations": "Coercive control via Face ID. Forced conversion. Strangulation. Death threats. Rape. Financial exploitation."
+      },
+      {
+        "id": "P047",
+        "status": "Not convicted",
+        "name": "His brother (Algerian - Victoria's case)",
+        "role": "Enabler",
+        "allegations": "Money funnelled through his bank account. Provided address where abuse occurred."
+      },
+      {
+        "id": "P048",
+        "status": "Not convicted",
+        "name": "Sex trafficker associate (Chloe's case - from neighbouring town)",
+        "role": "Sex trafficker",
+        "allegations": "Took Chloe to bars/nightclubs, spiked her with heroin, handed her over to men for assault."
+      },
+      {
+        "id": "P049",
+        "status": "Not convicted",
+        "name": "Party house owner (Fiona's case - Birmingham relatives visiting for Eid)",
+        "role": "Facilitator",
+        "allegations": "Expected girls to be there for Eid. 10-20 men attended at once."
+      },
+      {
+        "id": "P050",
+        "status": "Police officer",
+        "name": "Muslim police officer (Sarah's case)",
+        "allegations": "Interviewed Sarah after she reported kidnapping. Switched off tape recorder. Instructed her to drop allegations due to 'lack of evidence'. Later imprisoned for child sex offences."
+      },
+      {
+        "id": "P051",
+        "status": "Not convicted",
+        "name": "Darren Osborne (sentencing reference)",
+        "case": "R v. DARREN OSBORNE, Woolwich Crown Court, 2 February 2018",
+        "conviction": "Murdered crowd of Muslims with van",
+        "sentence": "Life imprisonment, minimum 43 years",
+        "notes": "Used as comparison - racial/religious aggravation applied to his case but never to rape gang offenders"
+      },
+      {
+        "id": "P052",
+        "status": "Convicted",
+        "name": "Gordon Collins",
+        "case": "HM Advocate v. Collins (2016)",
+        "notes": "Precedent illustrating gravity of abuse of trust in care settings"
+      }
+    ],
+    "gang_convictions_by_location_summary": [
+      {"location": "Rochdale", "profile": "Pakistani Muslim predominantly"},
+      {"location": "Rotherham", "profile": "Pakistani Muslim predominantly"},
+      {"location": "Huddersfield", "profile": "Pakistani Muslim predominantly"},
+      {"location": "Oxford", "profile": "Pakistani Muslim predominantly"},
+      {"location": "Telford", "profile": "Pakistani Muslim predominantly"},
+      {"location": "Bristol", "profile": "Two Somali-origin gangs"},
+      {"location": "Banbury", "profile": "Mainly African-heritage gang"},
+      {"location": "Chelmsford", "profile": "Three Iranians"},
+      {"location": "Newcastle", "profile": "Three Syrians, one Kuwaiti (separate); Operation Sanctuary: 17 men+1 woman from diverse Muslim backgrounds"},
+      {"location": "Somerset", "profile": "Two Turkish men"},
+      {"location": "Rotherham", "profile": "Romanian rape gang (separate)"}
+    ]
+  },
+  "section_3_authority_figures_enablers": {
+    "politicians_and_public_officials": [
+      {
+        "id": "A001",
+        "name": "Sadiq Khan",
+        "role": "Mayor of London",
+        "party": "Labour",
+        "allegations": "Repeatedly denied grooming gangs in London despite access to HM Inspectorate of Constabulary documents. Described whistleblower evidence as 'politically motivated'. Accused of cover-up by Shadow Home Secretary Chris Philp MP and campaigners Maggie Oliver and Chris Wild.",
+        "cross_references": ["I003-Police-forces-Metropolitan", "I016-Labour-Party"]
+      },
+      {
+        "id": "A002",
+        "name": "Andy Burnham",
+        "role": "Mayor of Greater Manchester",
+        "party": "Labour",
+        "allegations": "Criticised by former DC Maggie Oliver for failing to piece together full picture. Two reviewers resigned from Burnham's inquiry saying they were 'blocked' by GMP from accessing vital documents. As Police and Crime Commissioner, did not prosecute officers who failed victims.",
+        "cross_references": ["I003-Police-forces-Greater-Manchester", "I016-Labour-Party"]
+      },
+      {
+        "id": "A003",
+        "name": "Jess Phillips MP",
+        "role": "Safeguarding Minister (under Keir Starmer)",
+        "party": "Labour",
+        "allegations": "Maintained public silence on ethnic/religious patterns of gangs. Survivors resigned from her victim panel in disgust. Under her watch, ethnicity recording remains patchy and anti-white aspect downplayed."
+      },
+      {
+        "id": "A004",
+        "name": "Naz Shah MP",
+        "role": "Labour MP",
+        "party": "Labour",
+        "allegations": "Maintained public silence on ethnic/religious patterns despite constituency suffering."
+      },
+      {
+        "id": "A005",
+        "name": "Sarah Champion MP",
+        "role": "Labour MP",
+        "party": "Labour",
+        "notes": "One of few Labour politicians who spoke up, but was dismissed."
+      },
+      {
+        "id": "A006",
+        "name": "Sir Keir Starmer",
+        "role": "Leader of Labour Party / Prime Minister (context)",
+        "party": "Labour",
+        "allegations": "While DPP, reportedly 13,000 suspected rape gang members and paedophiles were let off with warning letters. Abstained/opposed national inquiry initially. Voted against Conservative amendment for statutory inquiry (Jan 2025)."
+      },
+      {
+        "id": "A007",
+        "name": "Shaun Wright",
+        "role": "Labour councillor, Rotherham children's services lead 2005-2010",
+        "party": "Labour",
+        "allegations": "Remained in post despite knowing scale of abuse. Resigned only after Jay Report exposed catastrophic failure."
+      },
+      {
+        "id": "A008",
+        "name": "Roger Stone",
+        "role": "Labour council leader, Rotherham 2003-2014",
+        "party": "Labour",
+        "allegations": "Presided over local government during cover-up documented in Jay Report."
+      },
+      {
+        "id": "A009",
+        "name": "Multiple Rotherham Labour councillors",
+        "party": "Labour",
+        "allegations": "Interfered in police investigations, tipped off perpetrators, dismissed victims as 'making lifestyle choices' to protect 'community relations' and votes."
+      },
+      {
+        "id": "A010",
+        "name": "Rory Stewart",
+        "role": "Former Conservative minister",
+        "party": "Conservative",
+        "allegations": "Publicly described grooming gang phenomenon as small-scale blight confined to north of England."
+      },
+      {
+        "id": "A011",
+        "name": "David Cameron",
+        "role": "Former Prime Minister (Conservative)",
+        "notes": "Met Sammy Woodhouse in 2015, told everything. Did very little in government."
+      },
+      {
+        "id": "A012",
+        "name": "Rishi Sunak",
+        "role": "Former Prime Minister (Conservative)",
+        "notes": "Did very little in government."
+      },
+      {
+        "id": "A013",
+        "name": "Chris Philp MP",
+        "role": "Shadow Home Secretary",
+        "notes": "Accused Khan of facilitating cover-up."
+      },
+      {
+        "id": "A014",
+        "name": "Susan Hall",
+        "role": "Leader of Conservatives in London Assembly",
+        "notes": "Challenged Khan about grooming gangs in London. Inundated with calls from victims after."
+      },
+      {
+        "id": "A015",
+        "name": "Kieran Mullan MP",
+        "role": "Shadow Minister for Justice",
+        "notes": "Drew attention at hearings to lenient sentencing."
+      },
+      {
+        "id": "A016",
+        "name": "Claire Coutinho MP",
+        "role": "Shadow Equalities Minister",
+        "notes": "Warned against adopting Islamophobia definition that could intensify 'culture of censorship'."
+      },
+      {
+        "id": "A017",
+        "name": "John Lamont MP",
+        "role": "Scottish politician",
+        "notes": "Gave evidence showing same reluctance operated in Scotland."
+      },
+      {
+        "id": "A018",
+        "name": "Baroness Anne Longfield",
+        "role": "Chair of Labour Government's Independent Inquiry into Grooming Gangs",
+        "notes": "Terms of reference deliberately limited to avoid examining ethnic/religious drivers."
+      },
+      {
+        "id": "A019",
+        "name": "Muhbeen Hussain",
+        "role": "Key APPG staff member from Rotherham",
+        "allegations": "Organised community protest against South Yorkshire Police (2015), accused them of 'scapegoating' Muslims amid grooming investigations."
+      },
+      {
+        "id": "A020",
+        "name": "Bhupinder K. Mauku",
+        "role": "Anti-Racism Co-ordinator, Rotherham MBC",
+        "notes": "Attended safeguarding strategy meeting dated 6 June 2000."
+      },
+      {
+        "id": "A021",
+        "name": "Lord Pearson of Rannoch",
+        "role": "House of Lords",
+        "notes": "Originated 250,000 figure in May 2019 debate."
+      },
+      {
+        "id": "A022",
+        "name": "Baroness Casey",
+        "role": "Author of National Audit on Group-Based CSE (June 2025)",
+        "notes": "Confirmed authorities shied away from examining ethnicity and culture."
+      },
+      {
+        "id": "A023",
+        "name": "Alexis Jay OBE",
+        "role": "Independent chair, Centre for Excellence for Children's Care and Protection",
+        "notes": "Authored Jay Report (2014) on Rotherham and IICSA (2022). Identified 1970s as decade when immigrant rape gangs began."
+      }
+    ],
+    "inquiry_personnel": [
+      {"id": "A024", "name": "Rupert Lowe MP", "role": "Rape Gang Inquiry Chair"},
+      {"id": "A025", "name": "Sammy Woodhouse", "role": "Inquiry lead, survivor-turned-activist"},
+      {"id": "A026", "name": "Nat Enderby-Shenton", "role": "Inquiry team"},
+      {"id": "A027", "name": "Marlon West", "role": "Inquiry team"},
+      {"id": "A028", "name": "Debra Sudbury", "role": "Inquiry team"},
+      {"id": "A029", "name": "Julie Ballan", "role": "Inquiry team"},
+      {"id": "A030", "name": "Dr. Mark Durie", "role": "Expert contributor"},
+      {"id": "A031", "name": "Charlie Downes", "role": "Editorial oversight"},
+      {"id": "A032", "name": "Joshua Ferme", "role": "Editorial oversight"},
+      {"id": "A033", "name": "Harrison Pitt", "role": "Editorial oversight"},
+      {"id": "A034", "name": "Graham Smith", "role": "Editorial oversight"}
+    ],
+    "whistleblowers_campaigners": [
+      {
+        "id": "A035",
+        "name": "Anonymous social worker",
+        "role": "Children's social care professional (nearly 4 decades)",
+        "testimony": "Raised whistleblowing disclosures Feb 2018 about financial abuse of young people, misuse of public funds, unlawful sanctions, illegal evictions, racism, systemic safeguarding failures. Retaliated against with suspension and professional isolation."
+      },
+      {
+        "id": "A036",
+        "name": "Caven Vines",
+        "role": "Rotherham campaigner",
+        "testimony": "Compiled multi-agency records from 2003 showing police, councils, MPs knew about organised grooming by Pakistani Muslim gangs. Misrepresented Sky News interview led to defamation proceedings, bankrupted him."
+      },
+      {
+        "id": "A037",
+        "name": "Tommy Robinson",
+        "role": "National activist / English Defence League founder",
+        "testimony": "Documented grooming patterns after exploitation of close female relative at 14. South Yorkshire Police allegedly subjected him to repeated arrests, dawn raids, fabricated charges, asset freezes. Imprisoned for contempt of court (13 months reduced to 9 on appeal) for livestreaming outside Leeds Crown Court during grooming gang trial."
+      },
+      {
+        "id": "A038",
+        "name": "Fred",
+        "role": "IT specialist / online child protection volunteer",
+        "testimony": "Worked as decoy for 2 years. Developed digital tracking tools. Assisted in identification/tracking/reporting of nearly 1,300 suspected child sexual predators. Shut down ~30 deep web servers hosting CSAM. Received life threats from repeat offender."
+      },
+      {
+        "id": "A039",
+        "name": "Maggie Oliver",
+        "role": "Former detective constable / whistleblower",
+        "testimony": "Criticised Andy Burnham. Warned London is 'last bastion of denial'. Two reviewers resigned from Burnham's inquiry saying blocked by GMP."
+      },
+      {
+        "id": "A040",
+        "name": "Chris Wild",
+        "role": "Campaigner",
+        "notes": "Described London as last bastion of denial."
+      },
+      {
+        "id": "A041",
+        "name": "Anonymous Interim Turnaround Manager",
+        "role": "Whistleblower, Greater Manchester",
+        "testimony": "Brought into residential children's service in large town in Greater Manchester (2019-2020). Clear the service was not meeting children's needs. Failures directly led to children being placed at risk and abuse."
+      },
+      {
+        "id": "A042",
+        "name": "Anonymous Consultant Physician",
+        "role": "Survivor and whistleblower",
+        "testimony": "No medical training on identifying grooming/trafficking. Trafficked to Greece. Religious control via distorted Christianity."
+      },
+      {
+      "id": "A043",
+      "name": "Liam Billington",
+      "role": "Former Conservative councillor",
+      "testimony": "Emphasised Labour-dominated councils prioritised electoral dependence on Pakistani Muslim communities above child safety."
+      },
+      {
+      "id": "A054",
+      "name": "Shabana Mahmood MP",
+      "role": "Lord Chancellor / Secretary of State for Justice",
+      "party": "Labour",
+      "notes": "Made oral statement to Parliament (9 Dec 2025) announcing terms of reference for government's Independent Inquiry into Grooming Gangs."
+      }
+    ],
+    "experts_and_researchers": [
+      {"id": "A044", "name": "Dr. Taj Hargey", "role": "Imam, Oxford Islamic Congregation", "notes": "Estimates 95% of grooming gang members are Muslim."},
+      {"id": "A045", "name": "Dr. Ella Hill", "role": "Rotherham survivor, qualified doctor", "notes": "Testified to 2022 Jay Inquiry. Described 'Grooming Gang Ideology'."},
+      {"id": "A046", "name": "Peter McLoughlin", "role": "Researcher", "notes": "Authored Easy Meat (2016). Compiled grooming gang conviction list 1997-2018. Found ~87% had distinctively Muslim names."},
+      {"id": "A047", "name": "Andrew Norfolk", "role": "Journalist (times)", "notes": "First journalist to expose rape gang scandal. Commented on Islamic justification."},
+      {"id": "A048", "name": "Ayaan Hirsi Ali", "role": "Author, activist", "notes": "Testified at Inquiry. Highlighted centre-left parties viewed Muslim voting blocs as protected base."},
+      {"id": "A049", "name": "Professor Lisa Oakley", "role": "Associate Professor", "notes": "Evidence to 2022 Jay Inquiry incorporated Dr. Hill's submission."},
+      {"id": "A050", "name": "Andrew Gilligan", "role": "Policy Exchange researcher"},
+      {"id": "A051", "name": "Dr. Paul Stott", "role": "Policy Exchange researcher"},
+      {"id": "A052", "name": "Sir John Jenkins KCMG LVO", "role": "Policy Exchange"},
+      {"id": "A053", "name": "Eric Kaufmann", "role": "Academic, author of Taboo (2024)"}
+    ]
+  },
+  "section_4_institutions": {
+    "police_forces": [
+      {"id": "I001", "name": "West Midlands Police", "failures": "Failed to take written statements. Officers took 2-4 hours to attend missing episodes. Closed cases without safeguarding action."},
+      {"id": "I002", "name": "Greater Manchester Police (incl. Tameside)", "failures": "PC dismissed for shouting at father to stop reporting daughter missing. Missing from Home team failed to return calls. CCTV of officers discussing not waking father. Failed to enforce bail conditions on known rapist."},
+      {"id": "I003", "name": "West Yorkshire Police", "failures": "Failed multiple victims. Closed early report of recorded sexual assault on 13-year-old with no investigation. Routinely recovered children from cars with adult men but let men drive away. Minimised disclosures, lost evidence."},
+      {"id": "I004", "name": "South Yorkshire Police", "failures": "Targeted Tommy Robinson with dawn raids. PC Hassan Ali allegedly brokered 'no-prosecution deal' with Arshid Hussain. Early knowledge of rape gangs from 1999. Discouraged missing reports. Protected perpetrators."},
+      {"id": "I005", "name": "Merseyside Police", "failures": "DC and PC discouraged 12-year-old rape victim from pursuing justice. Emphasised paperwork, delay. Failed to act on video evidence of assaults. After her death, family faced inadequate protection."},
+      {"id": "I006", "name": "Police Scotland", "failures": "DC received extensive digital evidence of Quran tutor grooming child. Suspect relocated abroad, reappeared, continued activity. Systemic data failures. No specific CSE marker. Inconsistent ethnicity recording."},
+      {"id": "I007", "name": "Metropolitan Police", "failures": "Failed multiple victims. Took no action on recorded sexual assault on 13-year-old. Allegedly assaulted victim while restrained during arrest. Review of 9,000 CSE cases announced Oct 2025. Sadiq Khan's denial."}
+    ],
+    "nhs_services": [
+      {"id": "I008", "name": "NHS Sexual Health Services (West Yorkshire)", "failures": "Treated Chloe for multiple STIs at 13. Never triggered safeguarding. Treated infections as medical issue rather than evidence of organised child rape."},
+      {"id": "I009", "name": "Dr. [GP] (Telford area)", "failures": "Saw child with clear indicators of sexual exploitation. Failed to ask safeguarding questions. Failed to make referral."},
+      {"id": "I010", "name": "Medical Professionals - GPs, Surgeons, Consultants", "failures": "Repeatedly recorded physical evidence of sexual abuse on Marie from infancy. Attributed injuries to psychological causes. Performed repeated invasive examinations without safeguarding action."},
+      {"id": "I011", "name": "Hospital and Psychiatric Services", "failures": "Discharged children after serious suicide attempts without safeguarding assessments. Psychiatric detention while heavily medicated - police interviews conducted in that state. Physical injuries consistent with sexual assault recorded but no protective action."},
+      {"id": "I012", "name": "CAMHS and Liaison Services", "failures": "Framed Kate's disclosures of organised trafficking, filmed rape, blackmail, 'red rooms' torture as mental health issues rather than organised crime. No escalation to protection."}
+    ],
+    "social_care": [
+      {"id": "I013", "name": "Metropolitan Borough Council", "failures": "Failed every looked-after child in semi-independent units. Whistleblower social worker disclosed financial abuse, misuse of public funds, unlawful sanctions, illegal evictions, racism. Senior officers acknowledged concerns as credible but conducted no investigation. Records destroyed (shredders purchased). Retaliated with suspension."},
+      {"id": "I014", "name": "Tameside Children's Services (Greater Manchester)", "failures": "Undermined Marlon's parental authority. Told daughter she could leave home. Edge of Care staff returned her to farm where raped, destroying forensic evidence. Senior social worker imposed DoLS, restricted family contact. Agency social worker failed to report rape."},
+      {"id": "I015", "name": "Wolverhampton Social Services", "failures": "Failed Whitney and daughter. Social worker received repeated reports but took no action. Refused relocation. Downgraded risk levels. Closed case despite explicit statements child was being sexually exploited."},
+      {"id": "I016", "name": "Social Services (Lilly's case)", "failures": "Removed children from loving family into care where abuse was worse. Social worker sexually abused Lilly's sister. Covered up by management. Foster carer exploited Lilly for labour. Records concealed for nearly 40 years. Operation Marmion shut down at senior level."},
+      {"id": "I017", "name": "Social Services (Jen's case)", "failures": "Minimised disclosures of forced conversion, forced Islamic marriage, coercive control. Treated religiously motivated abuse as 'cultural' or 'relationship' issue."},
+      {"id": "I018", "name": "Hounslow Placement (London)", "failures": "Dismissed disclosures of trafficking to adult men in flats as 'choice'. Did not believe abduction and rape report. Records missing/destroyed."},
+      {"id": "I019", "name": "General Children's Homes and Edge of Care", "failures": "Repeatedly encountered missing, intoxicated, injured children with adult men but failed to report rapes, escalate risk, or remove children. Placements became gateways for further abuse."}
+    ],
+    "education": [
+      {"id": "I020", "name": "School, Telford", "failures": "Observed older men collecting girls at gates. Heard direct disclosures of sexual activity in school toilets. Excluded victims for 'low-level disturbance'. Referrals rarely made."},
+      {"id": "I021", "name": "Merseyside High School", "failures": "After 12-year-old autistic pupil disclosed oral rape, failed to separate her from alleged perpetrator. Safeguarding tokenistic. Child died by overdose after bullying escalated."}
+    ],
+    "taxi_licensing": [
+      {"id": "I022", "name": "Taxi Licensing Authorities", "failures": "Knowingly granted, renewed, and failed to revoke licences for drivers forming backbone of rape gangs. Possessed repeated intelligence linking named drivers and firms to organised exploitation. Surrendered to organised protests when CCTV proposed."}
+    ],
+    "government_organisations": [
+      {"id": "I023", "name": "National Crime Agency (NCA)", "notes": "Launched Operation Beaconport to examine thousands of files nationwide after initial assessments found human errors, missed lines of inquiry, cases wrongly dropped."},
+      {"id": "I024", "name": "Crown Prosecution Service (CPS)", "failures": "Failed Rachel's daughter. Charged decisions influenced by 'community impact' or fear of racism allegations."},
+      {"id": "I025", "name": "Home Office / Foreign Office", "notes": "Forced Marriage Unit handled 801 cases in 2024. Ceased collecting/publishing data on religion of those involved."},
+      {"id": "I026", "name": "Criminal Injuries Compensation Authority (CICA)", "failures": "Refused Sammy Woodhouse compensation on grounds she 'consented' to abuse."},
+      {"id": "I027", "name": "Prevent Programme", "failures": "Catastrophically delayed in Victoria's case. Referrals sent late, incorrectly, or not at all."},
+      {"id": "I028", "name": "National Referral Mechanism (NRM)", "notes": "UK's official framework for identifying victims of trafficking and modern slavery. Used in multiple cases but often ineffective."}
+    ],
+    "childrens_homes": [
+      {"id": "I029", "name": "Children's homes (general)", "failures": "Became trafficking hubs. Staff failed to stop older men collecting girls at night. Children moved repeatedly between unsuitable placements. Received £5,000 per week per child and failed miserably."}
+    ]
+  },
+  "section_5_locations": {
+    "local_authority_districts_full_list": [
+      "Aberdeen City", "Angus", "Antrim and Newtownabbey", "Argyll and Bute", "Ashford", "Aylesbury Vale",
+      "Barking and Dagenham", "Barnsley", "Barrow-in-Furness", "Bassetlaw", "Bexley", "Birmingham",
+      "Blackburn with Darwen", "Blackpool", "Bolton", "Bournemouth", "Bradford", "Brent", "Bristol",
+      "Bromley", "Broxbourne", "Broxtowe", "Burnley", "Bury", "Calderdale", "Cambridge", "Camden", "Canterbury",
+      "Carlisle", "Castle Point", "Chelmsford", "Cherwell", "Cheshire East", "Cheshire West and Chester",
+      "Chiltern", "Christchurch", "City of Edinburgh", "County Durham", "Coventry", "Craven", "Croydon",
+      "Dacorum", "Dartford", "Derby", "Doncaster", "Dudley", "Ealing", "East Hertfordshire",
+      "East Riding of Yorkshire", "East Staffordshire", "Enfield", "Epping Forest", "Gateshead",
+      "Glasgow City", "Greenwich", "Hackney", "Hammersmith and Fulham", "Haringey", "Harlow", "Harrow",
+      "Hastings", "Havering", "High Peak", "Hillingdon", "Hounslow", "Hyndburn", "Ipswich", "Isle of Wight",
+      "Islington", "Kingston upon Hull", "Kirklees", "Lambeth", "Lancaster", "Leeds", "Leicester",
+      "Lewisham", "Liverpool", "Luton", "Manchester", "Medway", "Merton", "Middlesbrough", "Milton Keynes",
+      "Monmouthshire", "Newcastle upon Tyne", "Newcastle-under-Lyme", "Newham", "North Lincolnshire",
+      "North Tyneside", "Northumberland", "Norwich", "Nottingham", "Oldham", "Oxford", "Pembrokeshire",
+      "Pendle", "Peterborough", "Plymouth", "Poole", "Preston", "Reading", "Redbridge", "Redditch",
+      "Richmond upon Thames", "Rochdale", "Rossendale", "Rotherham", "Sandwell", "Sefton", "Sheffield",
+      "Shropshire", "Solihull", "South Ayrshire", "South Derbyshire", "South Somerset", "Southend-on-Sea",
+      "Southwark", "St. Helens", "Stockport", "Stoke-on-Trent", "Sutton", "Swansea", "Swindon", "Tameside",
+      "Telford and Wrekin", "Thanet", "Thurrock", "Tower Hamlets", "Vale of White Horse", "Wakefield",
+      "Walsall", "Waltham Forest", "Wandsworth", "Warrington", "Watford", "West Berkshire",
+      "West Dunbartonshire", "Westminster", "Weymouth and Portland", "Wigan", "Wiltshire",
+      "Windsor and Maidenhead", "Wirral", "Wolverhampton", "Worcester", "Wychavon", "Wycombe",
+      "Wyre Forest", "York"
+    ],
+    "counties_additional_evidence": ["Derbyshire", "Devon", "Dorset", "Greater Manchester", "Greater London",
+      "Lancashire", "Lincolnshire", "Merseyside", "Norfolk", "Yorkshire", "Warwickshire"
+    ],
+    "specific_venues_mentioned": [
+      {"name": "Party house", "location": "Associated with Fiona, Birmingham relatives for Eid"},
+      {"name": "Amusement arcade", "location": "Used as front for drug dealing and CSE (Michelle's case)"},
+      {"name": "Indian restaurant", "location": "Sally's daughter locked in room above"},
+      {"name": "Restaurant run by Muslim men", "location": "Taylor's case"},
+      {"name": "Flat in Birmingham", "location": "Whitney's case"},
+      {"name": "Canal boat", "location": "Kate's case - rape by alleged police officer"},
+      {"name": "Caravan (remote)", "location": "Kate's case - 9 days torture including animal rape"},
+      {"name": "Hotel during Eid", "location": "Jo'Jo's daughter case"},
+      {"name": "Textiles factory", "location": "Chloe's case"},
+      {"name": "Graveyard", "location": "Chloe's case - whiskey bottle inserted"},
+      {"name": "Red Rooms", "location": "Kate and other survivors described extreme torture settings"},
+      {"name": "Notting Hill Carnival", "location": "London - Kate forced into street-based sex work"},
+      {"name": "Hounslow block of flats", "location": "London - Jane sold to Somali men"},
+      {"name": "Pitsmoor, Sheffield", "location": "Leanne's case"},
+      {"name": "Farms (Tameside)", "location": "Scarlett's rape location - Edge of Care returned her there"}
+    ],
+    "mosques_sites_mentioned": [
+      {"name": "Mosque (Chloe's case)", "notes": "Imams described non-Muslims as 'infidels', white women 'inappropriately' dressed as 'free game'"},
+      {"name": "Mosque (Victoria's case)", "notes": "Known for extreme radical views. Boyfriend attended there."},
+      {"name": "Mosque (Jen's case)", "notes": "Dark, dingy flat converted into mosque. Imam married Jen without consent."},
+      {"name": "Mosque (Fred's case)", "notes": "Linked to Quran tutor who was grooming child."},
+      {"name": "Mosque, Rotherham", "notes": "Perpetrators hid actions from mosques and imams"}
+    ]
+  },
+  "section_6_programs_systems_legislation": {
+    "government_programs": [
+      {"id": "PG001", "name": "National Referral Mechanism (NRM)", "type": "Victim identification framework", "notes": "UK's official framework for identifying victims of trafficking and modern slavery. Used for Scarlett (charged anyway), Sally's daughter, Kate (positive Conclusive Grounds)."},
+      {"id": "PG002", "name": "Prevent", "type": "Counter-terrorism programme", "notes": "Catastrophically delayed in Victoria's daughter's case. Referrals sent late/incorrectly/not at all."},
+      {"id": "PG003", "name": "Forced Marriage Unit (FMU)", "type": "Home Office/Foreign Office unit", "notes": "Handled 801 cases in 2024. Ceased collecting religion data. Top countries: Pakistan (45%), Bangladesh (13%), Afghanistan (7%)."},
+      {"id": "PG004", "name": "Criminal Injuries Compensation Authority (CICA)", "type": "Compensation scheme", "notes": "Refused Sammy Woodhouse compensation on grounds she 'consented'. Called unfit for purpose."}
+    ],
+    "police_operations": [
+      {"id": "PG005", "name": "Operation Beaconport", "type": "NCA operation", "notes": "Launched to examine thousands of files nationwide after human errors, missed lines of inquiry, cases wrongly dropped."},
+      {"id": "PG006", "name": "Operation Marmion", "type": "Police operation (Lilly's case)", "notes": "Briefly acknowledged Lilly's account before being shut down at senior level. No one held accountable."},
+      {"id": "PG007", "name": "Operation Sanctuary", "type": "Newcastle prosecution", "notes": "Large case involving 17 men and 1 woman from diverse Muslim backgrounds."}
+    ],
+    "key_legislation": [
+      {"id": "PG008", "name": "Sexual Offences Act 2003", "notes": "Principal legislative mechanism for addressing rape, sexual exploitation, grooming."},
+      {"id": "PG009", "name": "Modern Slavery Act 2015", "notes": "Criminalises trafficking for sexual exploitation. Life sentences possible."},
+      {"id": "PG010", "name": "Equality Act 2010", "notes": "Consolidated anti-discrimination protections. Critics say it inhibited robust enforcement."},
+      {"id": "PG011", "name": "Human Rights Act 1998", "notes": "Article 3 ECHR - positive duty to investigate credible allegations. Used in DSD v. Commissioner of Police of the Metropolis (2018)."},
+      {"id": "PG012", "name": "UK Borders Act 2007", "notes": "Powers for deportation rarely used against foreign national perpetrators."},
+      {"id": "PG013", "name": "Crime and Disorder Act 1998", "notes": "Sentencing uplift for racial/religious hostility - never invoked against anti-white rape gangs."}
+    ],
+    "inquiries_reports": [
+      {"id": "PG014", "name": "Jay Report (2014)", "notes": "Rotherham: 1,400 girls abused 1997-2013. Perpetrators overwhelmingly Pakistani Muslim men."},
+      {"id": "PG015", "name": "Telford Inquiry (2022)", "notes": "More than 1,000 children over decades, same perpetrator profile."},
+      {"id": "PG016", "name": "Casey National Audit (June 2025)", "notes": "Scale, nature of group-based CSE impossible to quantify due to data suppression."},
+      {"id": "PG017", "name": "IICSA (2022)", "notes": "Independent Inquiry into Child Sexual Abuse - chaired by Alexis Jay."},
+      {"id": "PG018", "name": "Policy Exchange - 'The Rotherham Grooming Scandal and the Creators of the Islamophobia Definition' (Feb 2025)", "notes": "Examined connections between Rotherham scandal and APPG on Muslims."},
+      {"id": "PG019", "name": "Policy Exchange - 'How Not To Tackle Grooming Gangs' (June 2025)", "notes": "Argued Islamophobia accusations suppressed exposure of scandal."}
+    ]
+  },
+  "section_7_cross_reference_index": {
+    "by_person_locations": [
+      {"person": "Chloe (V001)", "locations": ["Scotland", "Midlands town (unnamed)"], "institutions": ["Police", "Social Services", "NHS", "School", "Children's home/Secure unit"], "perpetrators_associated": ["Stepfather", "Uncle", "25-year-old Indian man", "His friend", "Muslim gangs (aged 20-50+)", "Taxi drivers (network)", "Pakistani illegal migrant 'husband'", "Sex trafficker from neighbouring town"]},
+      {"person": "Fiona (V002)", "locations": ["Birmingham", "Multiple UK cities", "Pakistan/Kashmir (attempted)"], "institutions": ["Children's home", "Police"], "perpetrators_associated": ["'Rambo'", "Party house owner", "10-20 men at gatherings", "48-100 Pakistani men"]},
+      {"person": "Michelle (V003)", "locations": ["Local town"], "institutions": ["Police", "Social Services", "Care home"], "perpetrators_associated": ["Three adult Pakistani brothers", "Three men (house lock-in)", "600-700 men over 3 years", "98% Pakistani Muslim"]},
+      {"person": "Whitney (V004)", "locations": ["Birmingham"], "institutions": ["Police", "Social Services"], "perpetrators_associated": ["Two adult Pakistani brothers"]},
+      {"person": "Sally's Daughter (V006)", "locations": ["Various towns across region", "Indian restaurant"], "institutions": ["Police", "Hospital", "Social Services"], "perpetrators_associated": ["Asian men (unnamed)", "Man at Indian restaurant", "Man arrested for sexual assault"]},
+      {"person": "Scarlett (V007)", "locations": ["Tameside", "Farm location"], "institutions": ["Social Services", "Police", "School", "Children's homes", "Edge of Care", "Secure care"], "perpetrators_associated": ["Adult drug dealer", "Older woman", "Male Muslim care staff"]},
+      {"person": "Anna (V011)", "locations": ["Local town", "Woodland", "Park"], "institutions": ["Police"], "perpetrators_associated": ["Almost 18-year-old male", "Three Muslim brothers"]},
+      {"person": "Taylor (V012)", "locations": ["School", "Restaurant", "Various houses"], "institutions": ["Police", "School", "GP"], "perpetrators_associated": ["35-year-old Bangladeshi man", "~100 men", "Muslim taxi driver network", "Women directors"]},
+      {"person": "Marie (V013)", "locations": ["School", "College", "Various houses"], "institutions": ["NHS/Medical", "Police", "College"], "perpetrators_associated": ["Mother (complicit)", "Mother's partner", "Backstreet abortion woman", "Her husband", "55-year-old police sergeant"]},
+      {"person": "Jane (V014)", "locations": ["Hounslow, London", "Semi-independent living facility"], "institutions": ["School", "Police", "Social Services", "Children's home", "Psychiatric hospital"], "perpetrators_associated": ["50-year-old drug dealer", "6-7 Somali men", "Female peer trafficker"]},
+      {"person": "Leanne (V015)", "locations": ["Sheffield (Pitsmoor)", "Other cities"], "institutions": ["Police", "Social Services"], "perpetrators_associated": ["Uncle", "Adult Kurdish men", "Adult Iraqi men (impregnated at 15)"]},
+      {"person": "Lilly (V016)", "locations": ["Council estate", "Children's homes"], "institutions": ["Police", "Council", "Children's home", "Social Services"], "perpetrators_associated": ["Older boy (rapist of 3-year-old)", "His brother", "Man from age 6", "Social worker (sister's abuser)", "Children's home staff", "Foreign taxi drivers"]},
+      {"person": "Grace (V017)", "locations": ["Local town"], "institutions": ["Police"], "perpetrators_associated": ["Babysitter", "Pakistani men", "White men intermediaries", "Paedophile partner"]},
+      {"person": "Victoria's Daughter (V018)", "locations": ["Local college", "Abuser's brother address"], "institutions": ["Police", "Social Services", "College", "Prevent"], "perpetrators_associated": ["Algerian Muslim student", "His brother"]},
+      {"person": "Eleanor (V019)", "locations": ["Jersey", "Saudi Arabia", "Ethnic minority area"], "institutions": ["Social Services", "Education", "Police", "Children's homes"], "perpetrators_associated": ["Older white men", "Muslim men (restaurant)", "Older man (drug trade)", "Saudi husband", "Another rapist"]},
+      {"person": "Rachel's Daughter (V020)", "locations": ["School", "Home"], "institutions": ["Police", "School", "CPS"], "perpetrators_associated": ["White British boy", "His adult brother", "Girls linked to perpetrator"]},
+      {"person": "Jen (V021)", "locations": ["Midlands towns and cities", "Dark flat mosque"], "institutions": ["Police", "Social Services"], "perpetrators_associated": ["White British men (grooming)", "Iraqi Kurdish Muslim gang", "Imam (forced marriage)", "Iraqi illegal migrant husband"]},
+      {"person": "Kate (V022)", "locations": ["London (Notting Hill)", "Multiple UK cities", "Canal boat", "Caravan", "University town", "Church"], "institutions": ["Police", "Social Services", "School", "CAMHS", "University", "Hotel"], "perpetrators_associated": ["3 White British/GRT men", "Pakistani/Bangladeshi/Bengali Muslims", "Police officer (alleged)", "Doctor (alleged)", "Two chief abusers"]}
+    ]
+  },
+  "section_8_hearing_testimony_summaries": {
+    "whistleblower_testimony_summary": [
+      {"name": "Anonymous social worker", "key_points": ["Nearly 4 decades experience", "Raised disclosures Feb 2018 on financial abuse, misuse of funds, unlawful sanctions, illegal evictions, racism, systemic safeguarding failures", "Assured investigation would occur - none did", "Records destroyed (shredders purchased)", "Retaliated with suspension, professional isolation"]},
+      {"name": "Caven Vines", "key_points": ["Compiled multi-agency records from 2003 showing police/councils/MPs knew", "Sky News interview misrepresented", "Defamation proceedings bankrupted him", "Alleges perjury by MPs"]},
+      {"name": "Tommy Robinson", "key_points": ["Close female relative exploited at 14", "Formed English Defence League", "South Yorkshire Police: repeated arrests, dawn raids, fabricated charges, asset freezes", "13 months prison for contempt (Leeds Crown Court livestream)", "Resentenced to 9 months July 2019"]},
+      {"name": "Fred", "key_points": ["IT specialist, 6 years child protection", "Worked as decoy 2 years", "Developed digital tracking tools", "Assisted in identifying 1,300 suspected predators", "Shut down ~30 deep web CSAM servers", "Life threats from repeat offender"]}
+    ]
+  }
+}
